@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biomedical-project/static/css/main.e6c13ad2.css",
+    "main.js": "/biomedical-project/static/js/main.9215d88d.js",
+    "static/js/453.c043e12f.chunk.js": "/biomedical-project/static/js/453.c043e12f.chunk.js",
+    "index.html": "/biomedical-project/index.html",
+    "main.e6c13ad2.css.map": "/biomedical-project/static/css/main.e6c13ad2.css.map",
+    "main.9215d88d.js.map": "/biomedical-project/static/js/main.9215d88d.js.map",
+    "453.c043e12f.chunk.js.map": "/biomedical-project/static/js/453.c043e12f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9215d88d.js"
+  ]
+}
